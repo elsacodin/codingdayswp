@@ -1,6 +1,5 @@
 <?php get_header(); ?>
 
-<h1>Hello Wonderful World</h1>
 <section class="section1">
   <!-- Section 1 player Youtube -->
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ovTwwE6QhQk" frameborder="0" allowfullscreen></iframe>
